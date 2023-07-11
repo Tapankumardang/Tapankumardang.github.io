@@ -1,1 +1,9 @@
-[]
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.gorouter_example",
+      "sha256_cert_fingerprints":
+      ["36:62:E1:30:44:B4:9E:09:AE:7B:DC:EB:A0:2C:5D:6E:C7:92:E3:39:4C:7C:4E:B8:6D:DD:65:CF:0A:16:B7:47"]
+    }
+  }]
